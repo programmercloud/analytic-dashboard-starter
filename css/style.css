@@ -1,0 +1,21 @@
+/* Base */
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Time New Roman", sans-serif;
+}
+
+body {
+  background: #d5acbc;
+  color: #927685;
+}
+
+html {
+  font-size: 62.5%; /* = 10px = 1rem */
+}
+
+/* End Base */
